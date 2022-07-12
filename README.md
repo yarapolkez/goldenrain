@@ -2,7 +2,7 @@
 #Скрипт для загрузки файлов из Google Drive из консоли.
 
 #Скачиваем скрипт и делаем его исполняемым:
-sudo wget -O /usr/sbin/gddl ' https://github.com/yarapolkez/goldenrain/blob/main/gddl'
+sudo wget -O /usr/sbin/gddl 'https://github.com/yarapolkez/goldenrain/blob/main/gddl'
 sudo chmod +x /usr/sbin/gddl
 
 #Варианты использования:
