@@ -1,4 +1,4 @@
-# goldenrain
+# google_drive_downloader
 #Скрипт для загрузки файлов из Google Drive из консоли.
 
 #Скачиваем скрипт и делаем его исполняемым:
